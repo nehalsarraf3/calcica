@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap'); 
+ 
+.text-center{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+.body{
+    background-color: aqua;
+}
+
+
+
+.container{
+    text-align: center;
+    background-color: burlywood;
+    margin: auto;
+    max-width:17vw ;
+    padding: 15px;
+    align-items: center;
+    border-radius: 10px;
+    
+
+}
+.button{
+    padding: 10px;
+    padding-top: 12px;
+    margin: 6px;;
+    height:45px;
+    width: 34px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.row{
+    padding: 5px;
+}
+#input{
+    text-align: center;
+    ;
+}
+.input{
+    height: 35px;
+    width: 219px;
+    font-size: 20px;
+}
+.widdth{
+    width: 100%;
+}
+
+
+    
